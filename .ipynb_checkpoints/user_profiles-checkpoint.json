@@ -1,0 +1,142 @@
+[
+    {
+        "user_id": 1,
+        "selected_images": [
+            "images/image_95.jpg",
+            "images/image_96.jpg",
+            "images/image_21.jpg",
+            "images/image_77.jpg",
+            "images/image_42.jpg",
+            "images/image_11.jpg",
+            "images/image_44.jpg",
+            "images/image_99.jpg",
+            "images/image_24.jpg",
+            "images/image_33.jpg"
+        ],
+        "preferred_orientation": "paysage",
+        "preferred_size_category": "large",
+        "preferred_color": "#6b8cb2",
+        "favorite_tags": [
+            "paysage",
+            "portrait",
+            "haute_resolution"
+        ],
+        "average_resolution": {
+            "width": 3046,
+            "height": 3033
+        },
+        "cluster": 0
+    },
+    {
+        "user_id": 2,
+        "selected_images": [
+            "images/image_39.jpg",
+            "images/image_58.jpg",
+            "images/image_35.jpeg",
+            "images/image_30.jpg",
+            "images/image_7.jpeg",
+            "images/image_36.jpg",
+            "images/image_75.png",
+            "images/image_5.jpg",
+            "images/image_51.jpg",
+            "images/image_42.jpg"
+        ],
+        "preferred_orientation": "paysage",
+        "preferred_size_category": "large",
+        "preferred_color": "#3c4688",
+        "favorite_tags": [
+            "paysage",
+            "haute_resolution",
+            "portrait"
+        ],
+        "average_resolution": {
+            "width": 3203,
+            "height": 2795
+        },
+        "cluster": 0
+    },
+    {
+        "user_id": 3,
+        "selected_images": [
+            "images/image_61.jpg",
+            "images/image_55.jpg",
+            "images/image_34.jpeg",
+            "images/image_42.jpg",
+            "images/image_50.jpg",
+            "images/image_74.jpg",
+            "images/image_82.jpg",
+            "images/image_30.jpg",
+            "images/image_51.jpg",
+            "images/image_69.jpg"
+        ],
+        "preferred_orientation": "paysage",
+        "preferred_size_category": "large",
+        "preferred_color": "#96b1ca",
+        "favorite_tags": [
+            "haute_resolution",
+            "paysage",
+            "DSC-RX100M3"
+        ],
+        "average_resolution": {
+            "width": 3908,
+            "height": 3162
+        },
+        "cluster": 1
+    },
+    {
+        "user_id": 4,
+        "selected_images": [
+            "images/image_91.jpg",
+            "images/image_35.jpeg",
+            "images/image_78.jpg",
+            "images/image_18.jpg",
+            "images/image_71.jpg",
+            "images/image_55.jpg",
+            "images/image_3.jpg",
+            "images/image_20.jpg",
+            "images/image_38.jpg",
+            "images/image_94.jpg"
+        ],
+        "preferred_orientation": "paysage",
+        "preferred_size_category": "large",
+        "preferred_color": "#6f5f54",
+        "favorite_tags": [
+            "paysage",
+            "haute_resolution",
+            "portrait"
+        ],
+        "average_resolution": {
+            "width": 2860,
+            "height": 2671
+        },
+        "cluster": 0
+    },
+    {
+        "user_id": 5,
+        "selected_images": [
+            "images/image_17.jpg",
+            "images/image_6.tif",
+            "images/image_99.jpg",
+            "images/image_25.jpg",
+            "images/image_44.jpg",
+            "images/image_13.jpg",
+            "images/image_66.jpg",
+            "images/image_82.jpg",
+            "images/image_7.jpeg",
+            "images/image_94.jpg"
+        ],
+        "preferred_orientation": "paysage",
+        "preferred_size_category": "large",
+        "preferred_color": "#b0b0b2",
+        "favorite_tags": [
+            "paysage",
+            "haute_resolution",
+            "portrait"
+        ],
+        "average_resolution": {
+            "width": 3081,
+            "height": 2566
+        },
+        "cluster": 0
+    }
+]
